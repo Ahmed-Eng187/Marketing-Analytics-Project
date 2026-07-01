@@ -95,7 +95,7 @@ Used **Common Table Expressions (CTEs)** to simplify complex queries, improve re
 ---
 
 ## 📸 Project Screenshots
-*حط رابط صورة الداشبورد هنا بعد ما ترفعها في فولدر Images*
+**
 ![Dashboard Screenshot](Images/your_screenshot_name.png)
 
 ---
@@ -111,12 +111,15 @@ Marketing-Analytics-Project/
 ├── Images/
 └── README.md
 
-🏁 Conclusion
-This project demonstrates how data-driven analysis can improve marketing efficiency, enhance customer experience, and support strategic decision-making.
+---
 
-👤 Author
-Ahmed Hamdy
+## 🏁 Conclusion
+This project demonstrates how data-driven analysis can:
+* 🚀 **Improve marketing efficiency**
+* 🤝 **Enhance customer experience**
+* 📈 **Support strategic decision-making**
 
-🎯 Aspiring Data Analyst
+---
 
-🛠️ SQL | Power BI | Marketing Analytics
+## 👤 Author
+**Ahmed Hamdy** | Aspiring Data Analyst | SQL | Power BI | Marketing Analytics
