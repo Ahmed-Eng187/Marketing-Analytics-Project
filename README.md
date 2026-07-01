@@ -95,7 +95,6 @@ Used **Common Table Expressions (CTEs)** to simplify complex queries, improve re
 ---
 
 ## 📸 Project Screenshots
-**
 ![Dashboard Screenshot](Images/your_screenshot_name.png)
 
 ---
