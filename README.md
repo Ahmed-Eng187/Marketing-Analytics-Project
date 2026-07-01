@@ -110,8 +110,7 @@ Marketing-Analytics-Project/
 ├── Presentation/
 ├── Images/
 └── README.md
-
----
+```
 
 ## 🏁 Conclusion
 This project demonstrates how data-driven analysis can:
