@@ -110,3 +110,13 @@ Marketing-Analytics-Project/
 ├── Presentation/
 ├── Images/
 └── README.md
+
+🏁 Conclusion
+This project demonstrates how data-driven analysis can improve marketing efficiency, enhance customer experience, and support strategic decision-making.
+
+👤 Author
+Ahmed Hamdy
+
+🎯 Aspiring Data Analyst
+
+🛠️ SQL | Power BI | Marketing Analytics
